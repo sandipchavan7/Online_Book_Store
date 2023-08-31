@@ -1,0 +1,9 @@
+.carousel .carousel-item{
+   height: 600px;
+
+}
+
+.carousel-caption {
+   color: rgb(6, 6, 6);
+   font-size: 50px;
+}
